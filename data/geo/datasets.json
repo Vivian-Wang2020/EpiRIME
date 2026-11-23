@@ -1,0 +1,130 @@
+{
+ "NPC-GSE12452": {
+  "patients": "one sample per individual",
+  "gse": "GSE12452",
+  "gpl": "GPL570",
+  "n": 41,
+  "n_tumor": 31,
+  "n_normal": 10,
+  "n_patients": 41,
+  "D": 2000,
+  "value_range": [
+   2.931,
+   14.502
+  ]
+ },
+ "NPC-GSE53819": {
+  "patients": "tumor PT-1xx and normal NCNT-2xx with the same number are treated as one patient",
+  "gse": "GSE53819",
+  "gpl": "GPL6480",
+  "n": 36,
+  "n_tumor": 18,
+  "n_normal": 18,
+  "n_patients": 18,
+  "D": 2000,
+  "value_range": [
+   2.581,
+   19.441
+  ]
+ },
+ "LSCC-GSE59102": {
+  "patients": "middle field of the sample code = patient (tumor and surgical margin)",
+  "gse": "GSE59102",
+  "gpl": "GPL6480",
+  "n": 42,
+  "n_tumor": 29,
+  "n_normal": 13,
+  "n_patients": 31,
+  "D": 2000,
+  "value_range": [
+   2.283,
+   19.219
+  ]
+ },
+ "LSCC-GSE143224": {
+  "patients": "trailing number of the title = patient",
+  "gse": "GSE143224",
+  "gpl": "GPL5175",
+  "n": 25,
+  "n_tumor": 14,
+  "n_normal": 11,
+  "n_patients": 14,
+  "D": 2000,
+  "value_range": [
+   2.02,
+   14.62
+  ]
+ },
+ "HNSCC-GSE107591": {
+  "patients": "leading number of the title = patient (paired tumor and normal)",
+  "gse": "GSE107591",
+  "gpl": "GPL6244",
+  "n": 47,
+  "n_tumor": 24,
+  "n_normal": 23,
+  "n_patients": 24,
+  "D": 2000,
+  "value_range": [
+   1.986,
+   14.029
+  ]
+ },
+ "OSCC-GSE30784": {
+  "patients": "one sample per individual; dysplasia samples excluded",
+  "gse": "GSE30784",
+  "gpl": "GPL570",
+  "n": 212,
+  "n_tumor": 167,
+  "n_normal": 45,
+  "n_patients": 212,
+  "D": 2000,
+  "value_range": [
+   1.555,
+   16.407
+  ]
+ },
+ "OSCC-GSE25099": {
+  "patients": "one sample per individual",
+  "gse": "GSE25099",
+  "gpl": "GPL5175",
+  "n": 79,
+  "n_tumor": 57,
+  "n_normal": 22,
+  "n_patients": 79,
+  "D": 2000,
+  "value_range": [
+   0.88,
+   13.501
+  ]
+ },
+ "OSCC-GSE37991": {
+  "patients": "T and N samples with the same number = one patient",
+  "log2_applied": true,
+  "gse": "GSE37991",
+  "gpl": "GPL6883",
+  "n": 80,
+  "n_tumor": 40,
+  "n_normal": 40,
+  "n_patients": 40,
+  "D": 2000,
+  "value_range": [
+   4.382,
+   14.898
+  ]
+ },
+ "OSCC-GSE13601": {
+  "patients": "Tongue number = patient; lymph node sample excluded",
+  "log2_applied": true,
+  "gse": "GSE13601",
+  "gpl": "GPL8300",
+  "n": 57,
+  "n_tumor": 31,
+  "n_normal": 26,
+  "n_patients": 37,
+  "D": 2000,
+  "value_range": [
+   0.219,
+   17.661
+  ]
+ }
+}
